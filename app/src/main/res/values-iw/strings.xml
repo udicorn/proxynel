@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settings">הגדרות דפדפן</string>
+    <string name="location">מאפשר לאתרים לגשת למיקומך</string>
+    <string name="password">שמור את הסיסמאות שלך</string>
+    <string name="agent">סוכן משתמש</string>
+    <string name="flash">הפעל תכני פלאש (אם מותקן)</string>
+    <string name="home">דף הבית</string>
+    <string name="text_encoding">Text encoding</string>
+    <string-array name="url_content_array">
+        <item>Domain (default)</item>
+        <item>URL</item>
+        <item>Title</item>
+    </string-array>
+    <string name="fullscreen">הפעל מצב מסך מלא</string>
+    <string name="java">הפעל JavaScript</string>
+    <string-array name="proxy_choices_array">
+        <item>None</item>
+        <item>Orbot</item>
+        <item>I2P</item>
+        <item>Manual</item>
+        <item>UDCN</item>
+    </string-array>
+
+    <!--Location List-->
+    <string name="premium">פּרֶמיָה</string>
+    <string name="action_follow_me">Privacy Policy</string>
+
+</resources>
