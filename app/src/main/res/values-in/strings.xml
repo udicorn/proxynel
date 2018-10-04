@@ -100,6 +100,7 @@
     <string name="action_find">Temukan di halaman</string>
     <string name="download_pending">Memulai pengunduhan\\u2026</string>
     <string name="cannot_download">Hanya dapat mendownload \"http\" atau \"https\" URL.</string>
+    <string name="download_finished">Unduh Selesai</string>
     <string name="problem_download">URL tidak valid yang ditemukan, tidak dapat diunduh</string>
     <string name="post_invitation_link_message">Buka blokir situs web, media sosial, dan semua situs dengan browser proxy web gratis kami untuk Android.</string>
     <string name="pre_invitation_link_title">Proxynel: Buka Blokir Situs Web - Browser Proxy Gratis</string>

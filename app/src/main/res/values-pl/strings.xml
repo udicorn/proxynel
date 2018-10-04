@@ -83,6 +83,7 @@
     <string name="action_find">Znajdź na stronie</string>
     <string name="download_pending">Rozpoczynanie pobierania\u2026</string>
     <string name="cannot_download">Pliki mogą być pobierane tylko z linków zaczynających się od \"http\" lub \"https\".</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_download">Nie można pobrać - nieprawidłowy URL</string>
     <string name="problem_location_download">Nie można pobrać pliku do wskazanej lokalizacji</string>
     <string name="download_no_sdcard_dlg_title" >Brak karty SD</string>

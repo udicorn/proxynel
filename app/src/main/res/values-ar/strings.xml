@@ -201,6 +201,7 @@
     <string name="download_no_sdcard_dlg_msg">وحدة تخزين USB مطلوبة لتحميل الملف.</string>
     <string name="download_sdcard_busy_dlg_msg">التخزين مشغول. للسماح بالتنزيلات، المس \"إيقاف تخزين أوسب\" في الإشعار.</string>
     <string name="incognito_cookies">تمكين ملفات تعريف الارتباط في وضع التصفح المتخفي</string>
+    <string name="download_finished">اكتمل التحميل</string>
     <string name="message_clear_history">تم مسح التاريخ</string>
     <string name="use_tor_prompt">يبدو أن Orbot مثبت ليدك. هل تريد استخدام Tor؟</string>
     <string name="restart">إعادة الإتصال بالبروكسي</string>

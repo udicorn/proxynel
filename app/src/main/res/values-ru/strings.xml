@@ -86,6 +86,7 @@
     <string name="action_find">Найти на странице</string>
     <string name="download_pending">Загрузка\u2026</string>
     <string name="cannot_download">Загрузка возможна только с \"http\" или \"https\" адресов</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_download">Некорректный URL, загрузка невозможна</string>
     <string name="problem_location_download">Невозможно загрузить по указанному пути</string>
     <string name="download_no_sdcard_dlg_title">Нет карты памяти</string>

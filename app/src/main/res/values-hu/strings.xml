@@ -103,6 +103,7 @@
     <string name="download_pending">Letöltés elkezdése\u2026</string>
     <string name="cannot_download">Csak \"http\" vagy \"https\" URL-eket lehet letölteni.</string>
     <string name="problem_download">Érvénytelen URL, nem sikerült a letöltés</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_location_download">Nem lehet letölteni a kiválasztott helyre</string>
     <string name="download_no_sdcard_dlg_title" >Nincs SD kártya</string>
     <string name="download_no_sdcard_dlg_msg" >USB tárolóra van szükség a fájl letöltéséhez.</string>

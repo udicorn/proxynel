@@ -99,6 +99,7 @@
     <string name="action_find">Localizar na página</string>
     <string name="download_pending">A iniciar transferência\u2026</string>
     <string name="cannot_download">Apenas possível para as URLs \"http\" ou \"https\".</string>
+    <string name="download_finished">Download Finished</string>
     <string name="download_no_sdcard_dlg_title">Cartão SD não encontrado</string>
     <string name="download_no_sdcard_dlg_msg">Necessita-se de um cartão SD para salvar o arquivo transferido.</string>
     <string name="download_sdcard_busy_dlg_title">Cartão SD não disponível</string>

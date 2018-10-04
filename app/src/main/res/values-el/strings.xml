@@ -83,6 +83,7 @@
     <string name="action_find">Αναζήτηση στην σελίδα</string>
     <string name="download_pending">Ξεκίνημα λήψης\u2026</string>
     <string name="cannot_download">Μπορείτε να κατεβάσετε μόνο \"http\" ή \"https\" συνδέσμους.</string>
+    <string name="download_finished">Download Finished</string>
     <string name="download_no_sdcard_dlg_title" >Δεν υπάρχει κάρτα SD</string>
     <string name="download_no_sdcard_dlg_msg" >Είναι απαραίτητο το USB storage για λήψη του αρχείου.</string>
     <string name="download_sdcard_busy_dlg_title">USB storage μη διαθέσιμο</string>

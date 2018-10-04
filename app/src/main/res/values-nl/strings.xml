@@ -103,6 +103,7 @@
     <string name="download_pending">Download starten\u2026</string>
     <string name="cannot_download">Kan alleen \"http\" of \"https\" URLs downloaden.</string>
     <string name="problem_download">ongeldige URL gevonden, kan niet downloaden</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_location_download">Kan niet downloaden naar de bestemming</string>
     <string name="download_no_sdcard_dlg_title">Geen SD kaart</string>
     <string name="download_no_sdcard_dlg_msg">USB opslag is vereist om bestand te downloaden.</string>

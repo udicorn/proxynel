@@ -89,6 +89,7 @@
     <string name="action_find">Sayfada Bul</string>
     <string name="download_pending">İndirme başlatılıyor\u2026</string>
     <string name="cannot_download">Yalnızca \"http\" veya \"https\" bağlantıları indirilebilir.</string>
+    <string name="download_finished">İndirme Tamamlandı</string>
     <string name="problem_download">Geçersiz URL, yükleme yapılamıyor</string>
     <string name="problem_location_download">Belirtilen yere indirme yapılamıyor</string>
     <string name="download_no_sdcard_dlg_title">Hafıza kartı bulunamadı</string>

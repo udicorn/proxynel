@@ -104,6 +104,7 @@
     <string name="cannot_download">Herunterladen nur bei \"http\" oder \"https\" URLs möglich!</string>
     <string name="problem_download">Ungültige URL, Download nicht möglich!</string>
     <string name="problem_location_download">Download in dieses Verzeichns nicht möglich!</string>
+    <string name="download_finished">Download Finished</string>
     <string name="download_no_sdcard_dlg_title">Keine SD-Karte</string>
     <string name="download_no_sdcard_dlg_msg">USB-Speicher ist für das Herunterladen der Datei notwendig!</string>
     <string name="download_sdcard_busy_dlg_title">USB-Speicher nicht verfügbar</string>

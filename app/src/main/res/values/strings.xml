@@ -3,7 +3,6 @@
 
     <string name="app_name" translatable="false">Proxynel</string>
     <string name="url_udicorn" translatable="false">http://www.udicorn.com</string>
-    <string name="app_name_fix" translatable="false">Proxynel</string>
     <string name="action_new_tab">New tab</string>
     <string name="action_share">Share</string>
     <string name="restart">Restart Proxy</string>
@@ -94,6 +93,7 @@
     <string name="cannot_download">Can only download \"http\" or \"https\" URLs.</string>
     <string name="problem_download">Invalid URL encountered, cannot download</string>
     <string name="problem_location_download">Cannot download to the specified location</string>
+    <string name="download_finished">Download Finished</string>
     <string name="download_no_sdcard_dlg_title">No SD card</string>
     <string name="download_no_sdcard_dlg_msg">USB storage is required to download the file.</string>
     <string name="download_sdcard_busy_dlg_title">USB storage unavailable</string>

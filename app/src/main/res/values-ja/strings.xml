@@ -88,6 +88,7 @@
     <string name="action_find">ページ内を検索</string>
     <string name="download_pending">ダウンロードを開始します\u2026</string>
     <string name="cannot_download">\"http\" または \"https\" で始まる URL のみダウンロードできます</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_download">無効な URL です。ダウンロードできません</string>
     <string name="problem_location_download">指定したフォルダにダウンロードできません</string>
     <string name="download_no_sdcard_dlg_title">SD カードがありません</string>

@@ -82,6 +82,7 @@
     <string name="action_find">페이지에서 찾기</string>
     <string name="download_pending">다운로드 시작\u2026</string>
     <string name="cannot_download">\"http\" 또는 \"https\" URL만 다운로드할 수 있습니다.</string>
+    <string name="download_finished">Download Finished</string>
     <string name="download_no_sdcard_dlg_title" >SD 카드 없음</string>
     <string name="download_no_sdcard_dlg_msg" >파일을 다운로드하기 위해서는 USB 저장소가 필요합니다.</string>
     <string name="download_sdcard_busy_dlg_title">USB 저장소 사용할 수 없음</string>

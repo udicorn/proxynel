@@ -103,6 +103,7 @@
     <string name="action_find">Нађи на страници</string>
     <string name="download_pending">Покрећем преузимање\u2026</string>
     <string name="cannot_download">Могу да преузмем само са „http“ или „https“ адреса.</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_download">Неисправан УРЛ, не могу да преузмем</string>
     <string name="problem_location_download">Не могу да преузмем у наведену локацију</string>
     <string name="download_no_sdcard_dlg_title">Нема СД картице</string>

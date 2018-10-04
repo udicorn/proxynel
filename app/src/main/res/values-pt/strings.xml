@@ -101,6 +101,7 @@
     <string name="action_find">Localizar na página</string>
     <string name="download_pending">A iniciar descarga\u2026</string>
     <string name="cannot_download">Apenas possível para os URL \"http\" ou \"https\".</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_download">URL inválido e a descarga não é possível</string>
     <string name="problem_location_download">Não é possível descarregar da localização especificada</string>
     <string name="download_no_sdcard_dlg_title">Cartão SD não encontrado</string>

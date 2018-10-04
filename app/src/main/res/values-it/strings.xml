@@ -102,6 +102,7 @@
     <string name="action_find">Trova nella pagina</string>
     <string name="download_pending">Avvio download\u2026</string>
     <string name="cannot_download">È possibile scaricare solo da URL \"http\" o \"https\".</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_download">URL non supportato: scaricamento fallito</string>
     <string name="problem_location_download">Impssibile scaricare nella posizione scelta</string>
     <string name="download_no_sdcard_dlg_title" >Nessuna scheda SD trovata.</string>

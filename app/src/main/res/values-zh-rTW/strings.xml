@@ -88,6 +88,7 @@
     <string name="action_find">網頁內尋找</string>
     <string name="download_pending">正在開始下載\u2026</string>
     <string name="cannot_download">僅可下載以 \"http\" 或 \"https\" 開頭的網址</string>
+    <string name="download_finished">Download Finished</string>
     <string name="problem_download">遇到無效的 URL，無法下載</string>
     <string name="problem_location_download">無法下載無法至指定的位置</string>
     <string name="download_no_sdcard_dlg_title">無 SD 卡</string>
